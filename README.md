@@ -1,2 +1,2 @@
 # demoapp
-This the demo 
+This is the demo
